@@ -9,6 +9,7 @@ footer {
 }
 #CR {
   color: white;
+  text-align: center;
 }
 #dev {
   background-color: lightgrey;
@@ -18,4 +19,5 @@ footer {
   margin-right: 300px;
   padding-bottom: 30px;
   padding-top: 30px;
+  border-radius: 10px;
 }
